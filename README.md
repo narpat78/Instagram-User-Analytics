@@ -20,7 +20,7 @@ The project integrates **Python with MySQL** using the `mysql.connector` library
 
 ---
 
-## 🗄Database Schema
+## Database Schema
 The database used is named **`ig_clone`**, containing the following tables:
 - **users** → registered user details  
 - **photos** → uploaded photos info  
