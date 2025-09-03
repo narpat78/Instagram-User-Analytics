@@ -1,4 +1,4 @@
-# 📊 Instagram User Analytics
+# Instagram User Analytics
 
 This project focuses on **analyzing Instagram user data** using **Python (Jupyter Notebook)** and **MySQL**.  
 It is designed to help **Instagram’s Marketing Team** and **Investors** make data-driven decisions about user engagement, campaigns, and overall platform performance.
@@ -40,6 +40,4 @@ The database used is named **`ig_clone`**, containing the following tables:
 - **mysql.connector** → Database integration  
 - **Pandas** → Query results transformation  
 
----
 
-## 📂 Project Structure
